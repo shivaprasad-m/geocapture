@@ -1,0 +1,2 @@
+# geocapture
+Farmers in the villages are in crisis to sell their food grains in proper time. If the food grains are not sold in proper time then they are of no use. For this problem a platform can be created between farmers and buyers. A farmer can immediately know who the buyers are ready to purchase. Buyers will get immediate notification when farmer take the image of the Harvested crop ripe. The App takes help mobile sensor technology available in helping farmers and buyers with hassle free producer.
